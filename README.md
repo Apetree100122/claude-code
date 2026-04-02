@@ -1,3 +1,21 @@
+
+      # notice: this is the fork all 
+      works are by makers of claude. 
+     I am going to make my own changes and leave 
+     original work mine will be on a seperate log as to maintain there works no intention of any  
+        copyright infringement..
+
+      alexander petree
+      9514002505
+       apetree1001@email.phoenix.edu
+ 
+    date forked
+     04/01/2026
+
+    will notate when work has been changed 
+
+
+
 # Claude Code
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)
